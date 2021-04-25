@@ -1,4 +1,4 @@
-## Recommended Emulators for ROM Corruptions
+## Recommended Emulators for Non-RTCV Corruptions
 
 This is a list of emulators that are recommended for use when corrupting games or recording corruptions. This list takes into consideration the ease of use and the compatibility with the "Launch emulator" option in some corruption tools rather than the accuracy or the game-compatibility of the emulator.
 
