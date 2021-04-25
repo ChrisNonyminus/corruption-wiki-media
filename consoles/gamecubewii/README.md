@@ -12,7 +12,7 @@ Recommended setup: Vector Engine
 Startup vector suggestions:  
 **Limiter**: One, **Value**: Two  
 **Limiter**: Extended, **Value**: Extended  
-**Limiter**: Giga, **Value**: NOP
+**Limiter**: (Any Dolphin/PPC instruction from the Package Downloader), **Value**: NOP
 {% endhint %}
 
 ### Pages
