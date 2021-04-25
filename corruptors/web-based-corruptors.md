@@ -2,6 +2,20 @@
 
 These are corruptors that run in your browser. 
 
+## Urajijo
+
+**Author: cbrk803832?**
+
+**Release date: Sometime before 2013/01/14**
+
+![](../.gitbook/assets/chrome_WVKqXOhTtk.png)
+
+In Japan, corruptions are called チートバグ (cheatbug). There is a community of people who do cheatbugs.
+There is a tool called Urajijo, which is an html with various "generation centers" where you can randomly generate cheatcodes for particular systems.
+The tool is not in English but it is easy to use if you use a translator.
+
+**Page URL**: https://web.archive.org/web/20190331033837/http://www.geocities.jp/cbrk803832/index.html
+
 ## Emoji/SVG Corrupt
 
 ![Corrupted Laughing-Crying Emoji](../.gitbook/assets/image%20%2831%29.png)
