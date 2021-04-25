@@ -20,5 +20,5 @@ _Also check this link for the default lists that come with the Vector Engine_
 
 ### Usage
 
-Since the Nintendo DS isn't compliant with IEEE754, the default lists of the Vector Engine cannot be used. The Extended,One,Two,Whole lists should behave like their counterparts. The NOP Lists can be used as Value lists to cause game code to break.
+Since the Nintendo DS isn't compliant with IEEE754, the default lists of the Vector Engine cannot be used. The Extended,One,Two,Whole lists should behave like their counterparts. The NOP Lists can be used as Value lists to cause game code to break. Use as a limiter any ARM instruction from the Package Downloader.
 
